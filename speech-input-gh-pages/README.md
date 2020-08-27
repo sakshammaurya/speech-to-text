@@ -8,9 +8,6 @@ Simple speech input for `<input>` and `<textarea>` elements — replaces the now
 1. Include **speech-input.css** and **speech-input.js**
 2. Add a `speech-input` class to your `<input>` or `<textarea>`
 
-And you're done! Here's a demo:
-
-[![speech-input demo][1]][2]
 
 ## Extra options
 
@@ -54,8 +51,4 @@ Make sure you're using it on an actual server — it won't work on a `file://` U
 ### [Can I use](http://caniuse.com/#feat=web-speech) this in non-webkit browsers?
 Not yet.
 
-## [License (MIT)](http://hug.mit-license.org/)
 
-
-[1]: http://f.cl.ly/items/3m0n2Q0y0h1a0N2P2s0Y/screenshot-by-nimbus.png
-[2]: http://daniel-hug.github.io/speech-input/
